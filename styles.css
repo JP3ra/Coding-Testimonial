@@ -1,0 +1,70 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    height: 1215px;
+}
+
+.tanya{
+    
+    height: 500px;
+    width: 446px;
+    position: relative;
+    left: 845px;
+    bottom: 99px;
+    box-shadow: 5px 5px 10px dimgray;
+}
+
+.bg{
+    margin-left: 125px;
+    margin-top: 60px;
+}
+
+
+.quotes{
+    position: relative;
+    bottom: 429px;
+    right: 329px;
+
+}
+
+.testimonial{
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    position: relative;
+    bottom: 660px;
+    left: 84px;
+    font-size: xx-large;
+}
+
+.Credentials{
+    font-family: 'Inter', sans-serif;
+    font-weight: 900;
+    position: relative;
+    bottom: 649px;
+    left: 81px;
+    font-style: bold;
+}
+
+.change{
+    position: relative;
+    bottom: 581px;
+    left: 879px; 
+    width: 80px;
+    height: 39px;
+    border-radius: 49px;
+    background: white;
+    margin: auto; 
+    font-size: large;
+    color: grey;  
+    border: none;
+    box-shadow: 5px 5px 10px dimgray;
+    cursor: pointer;
+}
+
+
+.curve{
+    position: relative;
+    bottom: 153px;
+}
